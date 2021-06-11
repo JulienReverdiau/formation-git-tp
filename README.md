@@ -1,2 +1,4 @@
-# formation-git-tp
-Dépot formation julien
+﻿Dépot formation julien
+
+Repository utilisé pour les TPs de la formation git.
+
